@@ -1,12 +1,12 @@
 # TechPeach - Sistema Inteligente de Planejamento de Viagens em São Paulo
-
+![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/9783be37-be88-4a69-9629-dbc7f67624d6)
 
 ### Tenha uma chave API
 No site do Google AI Studio
-![imageApiColab](imgs\chaveApiGoogleAIStudio.png)
+![imageApiGoogleAIStudio](imgs/chaveApiGoogleAIStudio.png)
 
 ### Coloque sua chave de API no google colab
-![imageApiColab](imgs\chaveApi.png)
+![imageApiColab](imgs/chaveApi.png)
 
 
 ## Introdução

@@ -3,10 +3,10 @@
 
 ### Tenha uma chave API
 No site do Google AI Studio
-![imageApiColab](imgs\chave api google ai studio.png)
+![imageApiColab](imgs\chaveApiGoogleAIStudio.png)
 
 ### Coloque sua chave de API no google colab
-![imageApiColab](imgs\chave api.png)
+![imageApiColab](imgs\chaveApi.png)
 
 
 ## Introdução

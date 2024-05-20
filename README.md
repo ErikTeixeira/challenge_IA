@@ -8,6 +8,9 @@ No site do Google AI Studio
 ### Coloque sua chave de API no google colab
 ![imageApiColab](imgs/chaveApi.png)
 
+## Vídeos
+ - 1 Sprint - https://youtu.be/0c4opnXL8fU
+ - 2 Sprint - https://youtu.be/JiGy_ohObWo
 
 ## Introdução
 O TechPeach é um sistema inteligente desenvolvido para facilitar e personalizar o planejamento de viagens em São Paulo.

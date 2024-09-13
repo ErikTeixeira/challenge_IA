@@ -1,23 +1,19 @@
-Os  101 lugares com reviews nos seus arquivos são:
+Os  54 lugares com reviews nos seus arquivos são:
 
 googgle reviews
 tripadvisor
-yelp
-
 
 -- Museus
 1. Museu da Imagem e do Som (MIS)
-2. Museu de Arte de São Paulo Assis Chateaubriand
+2. Museu de Arte de São Paulo Assis Chateaubriand (MASP)
 3. Museu Pinacoteca de São Paulo
-4. - Museu de Arte de São Paulo (MASP)
-5. - Museu do Ipiranga
+4. Museu do Ipiranga
 
 -- Teatros
 1. Teatro Municipal de São Paulo
 2. Teatro Sérgio Cardoso
 3. Teatro Procópio Ferreira
-4. - Teatro Renault
-5. - Teatro Bradesco
+4. Teatro Renault
 
 ------------------------------------------------------------------
 
@@ -37,90 +33,57 @@ yelp
 
 ------------------------------------------------------------------
 
---== Lojas de Grife
+-- Lojas de Grife
 1. Shopping Cidade Jardim
 2. Shopping Iguatemi
-3. Shopping JK Iguatemi
-4. Shopping Patio Higienópolis
-5. Rua Oscar Freire (para boutiques de grife)
+3. Shopping Patio Higienópolis
+4. Rua Oscar Freire (para boutiques de grife)
 
---== Mercados de Antiguidades
+-- Mercados de Antiguidades
 1. Feira de Antiguidades da Praça Benedito Calixto
 2. Feira da Praça da República
 3. Feira de Antiguidades do Bixiga
-4. Feira de Antiguidades do MASP
-5. Feira da Praça Dom Orione (Bixiga)
 
---== Lojas de Souvenires
+-- Lojas de Souvenires
 1. Galeria do Rock
-2. Mercado Municipal de São Paulo (Mercadão)
-3. Feira de Artesanato da Praça da República
-4. Rua 25 de Março
-5. Feira da Liberdade (aos domingos)
-
---== Brechós
-1. BRECHÓ Replay
-2. Brechó Minha Avó Tinha
-3. Capricho à Toa
-4. B.Luxo
-5. Frou Frou Vintage
+2. Mercado Municipal de São Paulo
+3. Feira da Liberdade
 
 ------------------------------------------------------------------
 
---== Cafés e Confeitarias
+-- Cafés e Confeitarias
 1. Coffee Lab
-2. Braz Elettrica
-3. Isso é Café
-4. Casa Mathilde
-5. Juliette Café
+2. UM Coffee Co.
+3. Astronauta Café
 
+-- Bares e Pubs
+1. Bar Astor Vila Madalena
+2. Cervejaria Nacional
+3. Bar da Dona Onça
 
--- Restaurantes
-1. Duas Terezas
-2. Petros Greek Taverna
-3. Merenda da Cidade
+-- Culinária Vegetariana/Vegana
+1. Banana Verde
 
---== Culinária Vegetariana/Vegana
-1. Tartar & Co
-2. Banana Verde
-3. Ekoa Café
-4. Apfel
-5. Super Natural
-
---== Culinária Brasileira
+-- Culinária Brasileira
 1. Mocotó
 2. Tordesilhas
 3. Figueira Rubaiyat
-4. Maní
-5. Dalva e Dito
 
---== Culinária Italiana
-1. Fasano
-2. Nonno Ruggero
-3. Due Cuochi Cucina
-4. Antonietta Empório
-5. Nino Cucina
+-- Culinária Italiana
+1. Due Cuochi Cucina
+2. Nino Cucina & Vino
+3. Gero Restaurant
 
---== Culinária Mexicana
-1. Los Dos
-2. La Sabrosa
-3. Hecho en México
-4. Mexicaníssimo
-5. Don Pancho
+-- Culinária Mexicana
+1. Taquería La Sabrosa Cocina de México
+2. Hecho en Mexico - Itaim Bibi
+3. Mexicaníssimo Vila Madalena
+4. - Don Pancho
 
---== Culinária Japonesa
+-- Culinária Japonesa
 1. Jun Sakamoto
 2. Kinoshita
 3. Sushimar
-4. Huto
-5. Aizomê
-
---== Bares e Pubs
-1. Ferrovia Live
-2. Bar Astor
-3. Skull Bar
-4. Cervejaria Nacional
-5. Bar da Dona Onça
 
 ------------------------------------------------------------------
 
@@ -128,20 +91,9 @@ yelp
 1. JazzB
 2. Bar Brahma Centro
 3. Clube do Minhoca
-4. - Lab Club
-5. - Audio
-6. - Lions Nightclub
 
---== Shows ao Vivo
+-- Shows ao Vivo
 1. Casa de Francisca
 2. Bourbon Street Music Club
-3. - Cine Joia
-4. - Blue Note São Paulo
-5. - Beco 203
-
---== Cinema e Teatros Noturnos
-1. Cine Belas Artes
-2. Espaço Itaú de Cinema
-3. CineSesc
-4. Reserva Cultural
-5. Cinemark Shopping Eldorado
+3. Cine Joia
+4. Blue Note São Paulo

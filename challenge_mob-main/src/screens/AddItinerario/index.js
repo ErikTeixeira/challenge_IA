@@ -96,7 +96,6 @@ const AddItinerario = () => {
         "Vida Noturna",
         "Compras",
         "Atividades ao Ar Livre",
-        "História",
         "Mix de Tudo"
     ];
 
@@ -112,9 +111,7 @@ const AddItinerario = () => {
         "Culinária Brasileira",
         "Culinária Italiana",
         "Culinária Japonesa",
-        "Culinária Chinesa",
-        "Culinária Mexicana",
-        "Culinária Americana"
+        "Culinária Mexicana"
     ];
 
 

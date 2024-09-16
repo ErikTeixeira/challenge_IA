@@ -7,7 +7,7 @@ const DaysInput = ({ days, setDays }) => {
   const handleDaysChange = (input) => {
     const cleanedInput = input.replace(/[^\d]/g, '');
     const number = parseInt(cleanedInput, 10);
-    if (!isNaN(number) && number <= 365) {
+    if (!isNaN(number) && number <= 29) {
       setDays(cleanedInput);
     } else if (cleanedInput === '') {
       setDays('');
@@ -16,7 +16,7 @@ const DaysInput = ({ days, setDays }) => {
 
   const incrementDays = () => {
     const number = parseInt(days, 10) || 0;
-    if (number < 365) {
+    if (number < 29) {
       setDays((number + 1).toString());
     }
   };

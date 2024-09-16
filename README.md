@@ -1,47 +1,54 @@
 # TechPeach - Sistema Inteligente de Planejamento de Viagens em São Paulo
 ![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/9783be37-be88-4a69-9629-dbc7f67624d6)
 
-### Tenha uma chave API
-No site do Google AI Studio
-![imageApiGoogleAIStudio](imgs/chaveApiGoogleAIStudio.png)
-
-### Coloque sua chave de API no google colab
-![imageApiColab](imgs/chaveApi.png)
 
 ## Vídeos
  - 1 Sprint - https://youtu.be/0c4opnXL8fU
  - 2 Sprint - https://youtu.be/JiGy_ohObWo
+ - 3 Sprint - https://youtu.be/CyaPIhUR9CM
+
+ ## Rodar Projeto
+ - CMD => cd challenge_mob-main
+ - npm install
+ - npm start
+ - escolher o web => w 
 
 ## Introdução
-O TechPeach é um sistema inteligente desenvolvido para facilitar e personalizar o planejamento de viagens em São Paulo.
+Cansado de roteiros genéricos e impessoais? O TechPeach é a solução! Nosso aplicativo utiliza o poder da inteligência artificial para criar itinerários de viagem personalizados em São Paulo, baseados em suas preferências e necessidades.
 
-## Identificação do Problema
-Planejar uma viagem pode ser complexo, especialmente quando se busca personalizar o itinerário com atividades e locais de interesse. Encontrar as melhores opções de atividades, restaurantes e pontos turísticos pode ser confuso e demorado.
+## Problema
+Planejar uma viagem para São Paulo pode ser desafiador. Com tantas opções incríveis, encontrar o que realmente combina com você exige tempo e pesquisa.
 
-## Nossa Solução
-O sistema utiliza avaliações do Google Reviews para entender as preferências dos usuários e criar roteiros personalizados em São Paulo. Usando esses dados, o sistema aprende a identificar o que as pessoas gostam nos lugares que visitam.
+## Solução
+O TechPeach simplifica tudo! Esqueça horas procurando no Google. Com nosso app, você define seus interesses, orçamento, restrições alimentares e muito mais. Nossa IA, usando o Google Gemini e uma base de dados rica em reviews, gera o roteiro perfeito para você!
 
-## Evolução do Projeto
-O projeto evoluiu desde sua concepção inicial até a criação de um protótipo funcional. Inicialmente, utilizávamos técnicas básicas de análise de dados, mas agora integramos algoritmos avançados de inteligência artificial para melhorar a personalização dos itinerários.
+## Tecnologias Utilizadas
+- React Native: Para uma experiência mobile fluida e intuitiva.
+- Google Generative AI (Gemini): Nossa IA que gera itinerários personalizados.
+- Firebase: Armazenamento seguro de dados e autenticação de usuários.
+- Google Reviews Data: Uma base de dados rica em avaliações reais de lugares em São Paulo.
 
-## Ferramentas e Recursos Utilizados
-Para desenvolver nosso sistema, utilizamos diversas ferramentas e bibliotecas Python, incluindo:
-- **Google Data Scraper**: Extrai avaliações de locais como museus, teatros, restaurantes, parques e locais de vida noturna em São Paulo.
-- **Google AI Studio**: Organiza e limpa os dados das avaliações, focando nas colunas de nota e data.
-- **Pandas**: Manipula dados e lê arquivos Excel.
-- **Google Generative AI (Gemini)**: Gera respostas e interage com os dados para criar itinerários personalizados.
+## Funcionamento
+- Personalização: Você nos diz o que gosta: tipo de viagem, orçamento, restrições alimentares, etc.
+- Nosso sistema conta com dados de reviews de **54 lugares**
+- Poder da IA: Nossa IA analisa seus dados e os compara com nossa base de reviews.
+- Itinerário Sob Medida: Receba um roteiro detalhado com sugestões de atividades, restaurantes e muito mais!
+
+## Benefícios
+- Experiências Únicas: Descubra lugares que você realmente vai amar, evitando armadilhas turísticas.
+- Economia de Tempo: Deixe a IA fazer o trabalho duro e aproveite seu tempo livre para se divertir.
+- Organização Simplificada: Tenha todas as informações da sua viagem em um só lugar.
+Próximos Passos
+
 
 ## Funcionamento dos Recursos na Aplicação
 - **Data Scraper**: Extração de 45 avaliações de cada local selecionado, criando uma base de dados robusta.
 - **Google AI Studio**: Organização e limpeza dos dados extraídos, preparando-os para processamento pela IA.
-- **Pandas e Openpyxl**: Leitura e manipulação dos dados dos arquivos Excel contendo as avaliações.
 - **Google Generative AI**: Treinamento com os dados limpos para gerar itinerários personalizados baseados nas preferências dos usuários.
 
 ## Uso de Machine Learning e IA
 
 - **Google Generative AI (Gemini)**: Processa os dados e interage com os usuários, gerando respostas personalizadas com base nas avaliações extraídas.
-- **Pandas**: Manipula os dados extraídos dos arquivos Excel, permitindo análise detalhada e preparação dos dados para treinamento do modelo.
-- **Openpyxl**: Lê e extrai dados dos arquivos Excel.
 
 ## Exemplo Prático
 O sistema inclui um chat interativo que entende as preferências dos usuários. Com base nas respostas sobre a viagem, como número de dias, interesses e orçamento, o sistema gera um itinerário personalizado com os melhores lugares avaliados para visitar, restaurantes e atividades.

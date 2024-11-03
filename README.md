@@ -1,11 +1,18 @@
 # TechPeach - Sistema Inteligente de Planejamento de Viagens em São Paulo
 ![image](https://github.com/AlleSilvaa/TechPeach/assets/126684613/9783be37-be88-4a69-9629-dbc7f67624d6)
 
+## Projeto Completo
+O projeto completo está disponível no repositório GitHub: [TechPeach - Proj-challenge](https://github.com/ErikTeixeira/Proj-challenge.git).
+
+## Aplicativo Online
+Acesse o site do aplicativo: [TechPeach App](https://proj-challenge.vercel.app).
+
 
 ## Vídeos
  - 1 Sprint - https://youtu.be/0c4opnXL8fU
  - 2 Sprint - https://youtu.be/JiGy_ohObWo
  - 3 Sprint - https://youtu.be/CyaPIhUR9CM
+ - 4 Sprint - https://youtu.be/CbgvzWxwEDk
 
  ## Rodar Projeto
  - CMD => cd challenge_mob-main
